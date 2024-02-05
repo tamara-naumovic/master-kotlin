@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">ToDOMaster</string>
+    <string name="app_name_lower">todo</string>
+    <string name="design">design</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="type_your_email">Type Your Email:</string>
+    <string name="type_your_pass">Type Your Password:</string>
+    <string name="type_your_repass">Re-type Your Password:</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="not_registered">Not Registered?</string>
+
+    <string name="edit_task">Edit Task</string>
+    <string name="delete_task">DeleteTask</string>
+    <string name="close">Close</string>
+    <string name="task_name">Item 1</string>
+    <string name="type_your_task">Type your task ...</string>
+    <string name="create_task">Create task</string>
+    <string name="add_task">Add new task</string>
+
+    <string name="logout">Log out</string>
 </resources>
